@@ -1,4 +1,4 @@
-// +build darwin linux netbsd openbsd
+// +build darwin
 
 package main
 
